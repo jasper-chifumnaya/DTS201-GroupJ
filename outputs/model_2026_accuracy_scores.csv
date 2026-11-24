@@ -1,0 +1,16 @@
+Item Label,N_2026_Months,Actual_2026_Mean,Predicted_2026_Mean,MAE,RMSE
+Beans White,5,1266.04,2118.22,852.18,855.15
+Garri Yellow,5,848.92,1410.87,561.95,562.5
+Beef Boneless,5,6952.54,6424.6,527.94,547.46
+Rice Long-Grained (Imported),5,2222.41,2585.78,363.37,366.7
+"Onions, Fresh",5,1151.18,1457.09,305.91,313.97
+"Rice Local, Short-Grained",5,1875.2,2127.76,252.56,259.62
+"Vegetable Oil, 75Cl",5,3242.81,3225.16,137.65,149.19
+Sweet Potatoes,5,816.99,913.83,96.84,110.34
+"Tomatoes, Fresh",5,1189.1,1205.24,83.28,96.38
+"Palm Oil, 75Cl",5,2387.91,2443.38,71.29,84.78
+"Watermelon Whole, Medium Size Fresh",5,2060.82,1990.74,70.07,95.83
+Yam Tuber,5,2177.0,2154.0,42.98,53.64
+"Bread (Sliced), 450G",5,1676.9,1652.83,28.34,35.61
+Agric Hen Eggs,5,253.07,257.24,4.17,4.86
+OVERALL (All Items),70,2008.63,2140.48,242.75,349.7
